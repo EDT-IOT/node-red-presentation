@@ -6,14 +6,14 @@ Some reveal.js features, like external Markdown and speaker notes, require that 
 
 2. Install [Grunt](http://gruntjs.com/getting-started#installing-the-cli)
 
-4. Clone the reveal.js repository
+4. Clone this repository
    ```sh
-   $ git clone https://github.com/hakimel/reveal.js.git
+   $ https://github.com/EDT-IOT/node-red-presentation.git
    ```
 
 5. Navigate to the reveal.js folder
    ```sh
-   $ cd reveal.js
+   $ cd node-red-presentation.js
    ```
 
 6. Install dependencies
